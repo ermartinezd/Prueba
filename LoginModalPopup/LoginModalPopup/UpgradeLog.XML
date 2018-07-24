@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LoginModalPopup">
+</Property><Property Name="Solution File" Value="C:\Users\NXNTELLER\Downloads\LoginModalPopup\LoginModalPopup\LoginModalPopup.sln">
+</Property><Property Name="Date" Value="miércoles, 20 de junio de 2018">
+</Property><Property Name="Time" Value="12:56 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LoginModalPopup.sln" Description="File successfully backed up as C:\Users\NXNTELLER\Downloads\LoginModalPopup\LoginModalPopup\Backup\LoginModalPopup.sln">
+</Event><Event ErrorLevel="1" Project="LoginModalPopup" Source="..\LoginModalPopup" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="" Source="LoginModalPopup.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LoginModalPopup.sln" Description="Converted">
+</Event></UpgradeLog>
